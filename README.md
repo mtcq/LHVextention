@@ -1,4 +1,4 @@
-# HigherOrderProjectors
+# LHVextention 
 ## Code to accompany: [Nonlocality activation in a photonic quantum network](https://arxiv.org/abs/2309.06501)
 
 #### Luis Villegas-Aguilar, Emanuele Polino, Farzad Ghafari, Marco Túlio Quintino, Kiarn Laverick, Ian R. Berkman, Sven Rogge, Lynden K. Shalm, Nora Tischler, Eric G. Cavalcanti, Sergei Slussarenko, Geoff J. Pryde
